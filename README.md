@@ -14,8 +14,7 @@
   - [Details](#details)
 
   ## Links
-   Application Link: https://budget-tracker-jg.herokuapp.com/
-  Github Link: https://github.com/johngarcia144/budget-tracker
+   Application Link: https://budget-tracker-jg.herokuapp.com/<br>Github Link: https://github.com/johngarcia144/budget-tracker
   
   ## Installation
   Packages required to run this program are: npm i, npm mongoose, npm express, npm moran
