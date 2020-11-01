@@ -4,10 +4,8 @@
   ## Description
     Budget Tracker is an applicaiton that allows you to keep track of your band account online and offline. The applicaiton uses MongoDB, mongoose, moran, and express to dynamically update data. 
 
-    Application Link: https://budget-tracker-jg.herokuapp.com/
-    Github Link: https://github.com/johngarcia144/budget-tracker
-
   ## Table of Contents
+  - [Links](#links)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -15,6 +13,10 @@
   - [Contributors](#contributors)
   - [Details](#details)
 
+  ## Links
+   Application Link: https://budget-tracker-jg.herokuapp.com/
+  Github Link: https://github.com/johngarcia144/budget-tracker
+  
   ## Installation
   Packages required to run this program are: npm i, npm mongoose, npm express, npm moran
   
