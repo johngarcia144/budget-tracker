@@ -2,7 +2,7 @@
   # Budget Tracker 
   
   ## Description
-    Budget Tracker is an applicaiton that allows you to keep track of your band account online and offline. The applicaiton uses MongoDB, mongoose, moran, and express to dynamically update data. 
+    Budget Tracker is an applicaiton that allows you to keep track of your bank account online and offline. The applicaiton uses MongoDB, mongoose, moran, and express to dynamically update data. 
 
   ## Table of Contents
   - [Links](#links)
